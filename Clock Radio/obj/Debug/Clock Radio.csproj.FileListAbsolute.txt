@@ -1,0 +1,6 @@
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\Clock Radio\Clock Radio\bin\Debug\Clock Radio.exe.config
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\Clock Radio\Clock Radio\bin\Debug\Clock Radio.exe
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\Clock Radio\Clock Radio\bin\Debug\Clock Radio.pdb
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\Clock Radio\Clock Radio\obj\Debug\Clock Radio.csprojResolveAssemblyReference.cache
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\Clock Radio\Clock Radio\obj\Debug\Clock Radio.exe
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\Clock Radio\Clock Radio\obj\Debug\Clock Radio.pdb
